@@ -1,0 +1,13 @@
+body {
+  font-family: 'Arial';
+  background-color: rgb(12, 12, 12);
+  color: rgb(247, 242, 242);
+}
+
+a {
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
